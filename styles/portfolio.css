@@ -63,7 +63,7 @@ nav a {
     url("../images/developer.png");
   background-size: auto, contain;
   background-repeat: no-repeat;
-  background-position: bottom right, left;
+  background-position: bottom right, top left;
 }
 .banner-content {
   max-width: 500px;
